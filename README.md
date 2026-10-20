@@ -1,8 +1,8 @@
-# Maryam Workspace
+# Meryem Workspace
 
 A mobile project and team management app, designed and built by **Meryem Bahy**.
 
-Maryam Workspace helps teams keep their projects, tasks, and members organized from one place, with a clean interface built around a signature mint color (`#7DE2C0`).
+Meryem Workspace helps teams keep their projects, tasks, and members organized from one place, with a clean interface built around a signature mint color (`#7DE2C0`).
 
 ## Features
 
@@ -23,7 +23,7 @@ Maryam Workspace helps teams keep their projects, tasks, and members organized f
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd maryam-workspace
+cd meryem-workspace
 
 # Install dependencies
 npm install
