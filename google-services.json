@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830349451801",
+    "project_id": "meryem-workspace",
+    "storage_bucket": "meryem-workspace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830349451801:android:0c846ef7839ea188d64088",
+        "android_client_info": {
+          "package_name": "com.noahvirek.MeryemWorkspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWbc55k6zgmHamL7QUZTgY65RBPtG47Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
